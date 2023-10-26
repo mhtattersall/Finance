@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhtattersall
-- 👀 I’m interested in data science, artificial intelligence and the finance industry
+- 👀 I’m interested in data engineering, data science, artificial intelligence and the finance industry
 - 🌱 I’ve a Masters in Data Science & Artificial Intelligence from the University of Liverpool
 - 📫 How to reach me... mhtapple@gmail.com
 
