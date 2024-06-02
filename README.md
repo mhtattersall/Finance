@@ -1,7 +1,4 @@
-These are files from my studies with:
-- Univesity of Liverpool
-- MIT xPro
-- Udemy, YouTube and elsewhere...
+These are files from my studies in quantitative finance.
 
 <!---
 mhtattersall/mhtattersall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
